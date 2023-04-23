@@ -1,2 +1,2 @@
 # GBPJPY
-bits and bobs
+some snippets for MT5
